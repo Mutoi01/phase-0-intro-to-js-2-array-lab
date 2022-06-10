@@ -10,11 +10,11 @@ function destructivelyPrependCat(name){
 }
 
 function destructivelyRemoveLastCat(){
-    cats.pop(name)
+    cats.pop()
 }
 
 function destructivelyRemoveFirstCat(){
-    cats.shift(name)
+    cats.shift()
 }
 
 
